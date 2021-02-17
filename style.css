@@ -1,0 +1,116 @@
+.head{
+    background-color:black;
+    text-align: center
+}
+
+h1{
+    color: red;
+}
+
+.lolo{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    color: green;
+}
+
+p2{
+    color: black;
+}
+
+p3{
+    color: yellow;
+}
+
+.hello{
+    background-color: red;
+    text-align: center;
+}
+
+.gello{
+    background-color: black;
+    text-align: center;
+}
+
+.fog{
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+
+.log{
+    background-color: black;
+    display: flex;
+}
+
+h3{
+    color: royalblue;
+}
+
+.title{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.titl{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.tit{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.ti{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.t{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.p{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.o{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+.h{
+    background-color: black;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+a{
+    color: green;
+}
+
+
+
